@@ -6,7 +6,7 @@ requests
 structlog
 pytz
 logutils==0.3.3
-margaritashotgun>=0.4.1
+# margaritashotgun>=0.4.1
 pluginbase
 
 mock
